@@ -1,5 +1,10 @@
 # Prebuilt PixelLauncher with all needed packages
 
+## Preview
+
+![Xiaomi Pocophone F1](https://i.imgur.com/OR8QrxM.jpeg)
+
+
 ## Disclaimer
 - All credits go to the [saitama_96](https://t.me/saitama_96) & [MrSluffy_69](https://t.me/MrSluffy_69).
 
@@ -14,4 +19,4 @@
 
 Not needed, it will ovewrrite almost all Launchers that exist but if needed more Launchers can be added to be overwritten by adding the name in PixelLauncher/Android.mk:27 LOCAL_OVERRIDES_PACKAGES := LauncherName
 
-**4. Build Android**# vendor_pixellauncher
+**4. Build Android**
