@@ -14,7 +14,8 @@
 PRODUCT_PACKAGES += \
 	PixelLauncher \
 	GoogleWallpaperPicker \
-    PixelThemesStub
+    PixelThemesStub \
+    ThemedIconsOverlay
     
 
 # These are all nesesary sysconfig & permission files fo NexusLauncher & WallpaperPicker
